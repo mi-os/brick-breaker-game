@@ -2,7 +2,7 @@
 
 ### Play the game!
 
-- URL
+- https://mi-os.github.io/brick-breaker-game/
 
 ### How to play
 
